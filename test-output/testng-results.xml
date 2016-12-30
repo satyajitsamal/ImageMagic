@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="SeleniumGridTesting" duration-ms="41778" started-at="2016-12-30T06:51:11Z" finished-at="2016-12-30T06:51:53Z">
+    <groups>
+    </groups>
+    <test name="App Center Sanity" duration-ms="41778" started-at="2016-12-30T06:51:11Z" finished-at="2016-12-30T06:51:53Z">
+      <class name="com.phoenix.edu.SeleniumGridTest">
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:com.phoenix.edu.SeleniumGridTest@60cb03c4]" name="setup" is-config="true" duration-ms="9" started-at="2016-12-30T12:21:11Z" finished-at="2016-12-30T12:21:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@39d950df]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:com.phoenix.edu.SeleniumGridTest@60cb03c4]" name="test1" duration-ms="25573" started-at="2016-12-30T12:21:11Z" data-provider="test1" finished-at="2016-12-30T12:21:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://freecharge.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:com.phoenix.edu.SeleniumGridTest@60cb03c4]" name="test1" duration-ms="24349" started-at="2016-12-30T12:21:11Z" data-provider="test1" finished-at="2016-12-30T12:21:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://facebook.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:com.phoenix.edu.SeleniumGridTest@60cb03c4]" name="test1" duration-ms="14569" started-at="2016-12-30T12:21:11Z" data-provider="test1" finished-at="2016-12-30T12:21:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://google.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.phoenix.edu.SeleniumGridTest@60cb03c4]" name="tearDown" is-config="true" duration-ms="166" started-at="2016-12-30T12:21:26Z" finished-at="2016-12-30T12:21:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@39d950df]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.phoenix.edu.SeleniumGridTest.test1(java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:com.phoenix.edu.SeleniumGridTest@60cb03c4]" name="test1" duration-ms="10217" started-at="2016-12-30T12:21:26Z" data-provider="test1" finished-at="2016-12-30T12:21:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.phoenix.edu.SeleniumGridTest@60cb03c4]" name="tearDown" is-config="true" duration-ms="183" started-at="2016-12-30T12:21:36Z" finished-at="2016-12-30T12:21:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@39d950df]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.phoenix.edu.SeleniumGridTest.test1(java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="test1(java.lang.String)[pri:0, instance:com.phoenix.edu.SeleniumGridTest@60cb03c4]" name="test1" duration-ms="16800" started-at="2016-12-30T12:21:36Z" data-provider="test1" finished-at="2016-12-30T12:21:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.irctc.co.in]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.phoenix.edu.SeleniumGridTest@60cb03c4]" name="tearDown" is-config="true" duration-ms="166" started-at="2016-12-30T12:21:36Z" finished-at="2016-12-30T12:21:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@39d950df]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.phoenix.edu.SeleniumGridTest.test1(java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.phoenix.edu.SeleniumGridTest@60cb03c4]" name="tearDown" is-config="true" duration-ms="449" started-at="2016-12-30T12:21:37Z" finished-at="2016-12-30T12:21:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@39d950df]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.phoenix.edu.SeleniumGridTest.test1(java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="tearDown(org.testng.ITestContext, java.lang.reflect.Method)[pri:0, instance:com.phoenix.edu.SeleniumGridTest@60cb03c4]" name="tearDown" is-config="true" duration-ms="420" started-at="2016-12-30T12:21:53Z" finished-at="2016-12-30T12:21:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@39d950df]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void com.phoenix.edu.SeleniumGridTest.test1(java.lang.String) throws java.lang.Exception]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="shutdown(org.testng.ITestContext)[pri:0, instance:com.phoenix.edu.SeleniumGridTest@60cb03c4]" name="shutdown" is-config="true" duration-ms="1265" started-at="2016-12-30T12:21:53Z" finished-at="2016-12-30T12:21:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@39d950df]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shutdown -->
+      </class> <!-- com.phoenix.edu.SeleniumGridTest -->
+    </test> <!-- App Center Sanity -->
+  </suite> <!-- SeleniumGridTesting -->
+</testng-results>

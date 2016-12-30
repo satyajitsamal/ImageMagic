@@ -1,0 +1,17 @@
+ <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ 
+<suite name="SeleniumGridTesting" parallel="methods" data-provider-thread-count="3">
+
+	<!-- <listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+		<listener class-name="edu.apollogrp.helper.TestListener"></listener>
+	</listeners> -->
+	<test name="App Center Sanity">
+		<classes>
+			<class name="com.phoenix.edu.SeleniumGridTest">
+			</class>
+		</classes>
+	</test>
+
+</suite>
